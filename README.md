@@ -2,8 +2,6 @@
 
 ![BLUI Splash](https://github.com/SpectralVectors/BLUI/blob/main/splash.png)
 
-Bringing Unreal UX to Blender
-
 ## How to Install
 
 Download __BLUI.zip__ from the Releases section on the right.
