@@ -1,6 +1,6 @@
-# BLUI
+# BLUI - Blender Unreal Interface
 
-__BL__ ender __U__ nreal __I__ nterface - bringing Unreal UX to Blender
+Bringing Unreal UX to Blender
 
 ## How to Install
 
