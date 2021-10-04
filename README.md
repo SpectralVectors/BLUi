@@ -1,5 +1,7 @@
 # BLUI - Blender Unreal Interface
 
+![BLUI Splash](https://github.com/SpectralVectors/BLUI/blob/main/splash.png)
+
 Bringing Unreal UX to Blender
 
 ## How to Install
