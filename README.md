@@ -12,4 +12,4 @@ Select __Install Application Template__.
 
 Navigate to your __Downloads__ and select __BLUI.zip__, the click __Install...__.
 
-When you want to use the template, go to __File > New > BLUI__.
+To use the template, go to __File > New > BLUI__.
