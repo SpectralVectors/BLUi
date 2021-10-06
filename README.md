@@ -56,11 +56,14 @@ The full list of Community Addons is below:
 | **Tools** ||
 |---|---|
 | _Key_ | _Action_ |
-| <kbd>Q</kbd> | Select Tool |
+| <kbd>Q</kbd> | Cycle Select Tools |
 | <kbd>W</kbd> | Move Tool |
 | <kbd>E</kbd> | Rotate Tool |
-| <kbd>R</kbd> | Scale Tool |
+| <kbd>R</kbd> | Cycle Scale Tools |
 | <kbd>T</kbd> | Transform Tool |
+| <kbd>D</kbd> | Cycle Annotation Tools |
+| <kbd>M</kbd> | Measure Tool |
+| <kbd>C</kbd> | 3D Cursor Tool |
 
 | **3D Viewport** ||
 |---|---|
@@ -73,6 +76,11 @@ The full list of Community Addons is below:
 | <kbd>Alt</kbd>+<kbd>Left Mouse</kbd> | Rotate View |
 | <kbd>Alt</kbd>+<kbd>Middle Mouse</kbd> | Pan View |
 | <kbd>Alt</kbd>+<kbd>Right Mouse</kbd> | Zoom View |
+| <kbd>V</kbd> | Views Pie Menu |
+| <kbd>,</kbd> | Transform Orientation Pie Menu |
+| <kbd>.</kbd> | Transform Pivot Point Pie Menu |
+| <kbd>Z</kbd> | Marquee Select Zoom |
+| <kbd>X</kbd> | Toggle Snapping |
 
 
 
