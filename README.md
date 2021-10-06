@@ -17,6 +17,7 @@ To use the template, go to __File > New > BLUI__.
 ## NOTE
 
 BLUI runs a startup script that will check for a number of community addons, and, if they're not found, download, install and activate them.
+
 The total size is ~40mb, so, depending on the speed of your internet connection, Blender may appear to be frozen for a few minutes!
 
 Please be patient, and, when the addons are all installed, the BLUI splashscreen will appear!
