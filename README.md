@@ -79,9 +79,9 @@ The full list of Community Addons is below:
 | <kbd>Middle Mouse</kbd> | Cut Connections |
 | <kbd>C</kbd> | Comment Box |
 | <kbd>Left Mouse Double Click</kbd> | Add Reroute Node |
-| <kbd>S</kbd><kbd>Left Mouse Click</kbd> | Add Value Node |
-| <kbd>M</kbd><kbd>Left Mouse Click</kbd> | Add Math Node |
-| <kbd>U</kbd><kbd>Left Mouse Click</kbd> | Add Texture Coordinate Node |
-| <kbd>T</kbd><kbd>Left Mouse Click</kbd> | Add Image Texture Node |
-| <kbd>B</kbd><kbd>Left Mouse Click</kbd> | Add Bump Node |
+| <kbd>S</kbd>+<kbd>Left Mouse Click</kbd> | Add Value Node |
+| <kbd>M</kbd>+<kbd>Left Mouse Click</kbd> | Add Math Node |
+| <kbd>U</kbd>+<kbd>Left Mouse Click</kbd> | Add Texture Coordinate Node |
+| <kbd>T</kbd>+<kbd>Left Mouse Click</kbd> | Add Image Texture Node |
+| <kbd>B</kbd>+<kbd>Left Mouse Click</kbd> | Add Bump Node |
 
