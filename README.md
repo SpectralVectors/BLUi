@@ -16,18 +16,18 @@ To use the template, go to __File > New > BLUI__.
 
 ## NOTE
 
-BLUI depends on a handful of community addons to work properly:
+BLUI runs a startup script that will check for a number of community addons, and, if they're not found, download, install and activate them.
+
+The total size is ~40mb, so, depending on the speed of your internet connection, Blender may appear to be frozen for a few minutes!
+
+Please be patient, and, when the addons are all installed, the BLUI splashscreen will appear!
+
+This will only happen if you don't already have the addons installed, and, once they are installed, startup is quick.
+
+The full list of Community Addons is below:
 
 - Jim Kroovy's Mr Mannequin's Tools
 - BleuRaven's Blender for Unreal Engine
 - Salai Vedha Viradan's Modifier Stack Manager
 - SavMartin's TexTools
-- and my own RightMouseNavigation, CommentBox, and maybe soon Transmat, too!
-
-If you're not sure if you have all the right addons, you can run the setup script in the Scripting tab. 
-
-It will automatically download, install and activate all the required addons (listed above).
-
-If you already have the addons, the script shouldn't affect them, as the Overwrite setting is False.
-
-You can add or remove any addon you like from the script before running it.
+- and my own RightMouseNavigation, CommentBox
