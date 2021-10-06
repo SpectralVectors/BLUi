@@ -66,5 +66,5 @@ The full list of Community Addons is below:
 |---|---|
 | <kbd>Shift</kbd><kbd>A</kbd> | Add Mesh |
 | <kbd>N</kbd> | Show/Hide Properties Panel |
-| Right Mouse | Walk Navigation & Context Menus |
+| <kbd>Right Mouse</kbd> | Walk Navigation & Context Menus |
 
