@@ -33,10 +33,10 @@ The full list of Community Addons is below:
 - and my own RightMouseNavigation, CommentBox
 
 ## Keyboard Shortcuts
-
-<kbd>1</kbd> Vertex Mode
-
-<kbd>2</kbd> Edge Mode
+| Key | Action |
+|---|---|
+| <kbd>1</kbd> | Vertex Mode |
+| <kbd>2</kbd> | Edge Mode |
 
 <kbd>3</kbd> Face Mode
 
