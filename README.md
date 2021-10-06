@@ -35,7 +35,7 @@ The full list of Community Addons is below:
 ## Keyboard Shortcuts
 
 
-| | **Modes** |
+| **Modes** ||
 |---|---|
 | _Key_ | _Action_ |
 | <kbd>1</kbd> | Vertex Mode |
@@ -47,13 +47,13 @@ The full list of Community Addons is below:
 | <kbd>7</kbd> | Weight Paint Mode |
 | <kbd>9</kbd> | Texture Paint Mode|
 
-|| **Workspaces** |
+| **Workspaces** ||
 |---|---|
 | _Key_ | _Action_ |
 | <kbd>Ctrl</kbd><kbd>Tab</kbd> | Cycle Workspaces Right |
 | <kbd>Shift</kbd><kbd>Ctrl</kbd><kbd>Tab</kbd> | Cycle Workspace Left |
 
-|| **Tools** |
+| **Tools** ||
 |---|---|
 | _Key_ | _Action_ |
 | <kbd>Q</kbd> | Select Tool |
@@ -62,7 +62,7 @@ The full list of Community Addons is below:
 | <kbd>R</kbd> | Scale Tool |
 | <kbd>T</kbd> | Transform Tool |
 
-|| **3D Viewport** |
+| **3D Viewport** ||
 |---|---|
 | _Key_ | _Action_ |
 | <kbd>Shift</kbd><kbd>A</kbd> | Add Mesh |
