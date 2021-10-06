@@ -11450,11 +11450,7 @@ keyconfig_data = \
  ("View3D Walk Modal",
   {"space_type": 'EMPTY', "region_type": 'WINDOW', "modal": True},
   {"items":
-   [("CANCEL",
-     {"type": 'RIGHTMOUSE', "value": 'ANY', "any": True},
-     {    "active":False,
-      },
-     ),
+   [("CANCEL", {"type": 'RIGHTMOUSE', "value": 'ANY', "any": True},{"active":False,},),
     ("CANCEL", {"type": 'ESC', "value": 'PRESS', "any": True, "repeat": True}, None),
     ("CONFIRM", {"type": 'RIGHTMOUSE', "value": 'RELEASE', "any": True}, None),
     ("CONFIRM", {"type": 'RET', "value": 'PRESS', "any": True, "repeat": True}, None),
