@@ -1,4 +1,4 @@
-# BLUI v0.8.3
+# BLUI v0.8.4
 
 import bpy, os, urllib.request, addon_utils
 from bpy.app.handlers import persistent
@@ -6,14 +6,13 @@ from bpy.app.handlers import persistent
 @persistent
 def load_handler_for_preferences(_):
     print("Changing Preference Defaults!")
-    #from . import BLUI_Keymap
 
     string = bpy.app.version_string
     blenderversion = string.rstrip(string[-2:])
     keymap_filepath = str(os.path.expanduser('~/AppData/Roaming/Blender Foundation/Blender/')) + blenderversion + str('/scripts/startup/bl_app_templates_user/BLUI/BLUI_Keymap.py')
 
     bpy.ops.preferences.keyconfig_import(filepath=keymap_filepath)
-    bpy.ops.preferences.keyconfig_activate(filepath=keymap_filepath)
+    #bpy.ops.preferences.keyconfig_activate(filepath=keymap_filepath)
 
 @persistent
 def load_handler_for_startup(_):
