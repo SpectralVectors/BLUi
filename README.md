@@ -70,7 +70,7 @@ The full list of Community Addons is below:
 | **3D Viewport** ||
 |---|---|
 | _Key_ | _Action_ |
-| <kbd>Right Mouse</kbd> | Walk Navigation & Context Menus |
+| <kbd>Right Mouse</kbd> | Viewport Navigation & Context Menus |
 | <kbd>Shift</kbd>+<kbd>A</kbd> | Add Mesh |
 | <kbd>N</kbd> | Show/Hide Properties Panel |
 | <kbd>F11</kbd> | Maximize Viewport |
