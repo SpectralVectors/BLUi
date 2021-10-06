@@ -31,3 +31,7 @@ The full list of Community Addons is below:
 - Salai Vedha Viradan's Modifier Stack Manager
 - SavMartin's TexTools
 - and my own RightMouseNavigation, CommentBox
+
+## Keyboard Shortcuts
+
+<kbd>1</kbd> Vertex Mode
