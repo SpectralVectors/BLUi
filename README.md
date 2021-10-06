@@ -45,13 +45,13 @@ The full list of Community Addons is below:
 | <kbd>5</kbd> | Sculpt Mode |
 | <kbd>6</kbd> | Vertex Paint Mode |
 | <kbd>7</kbd> | Weight Paint Mode |
-| <kbd>9</kbd> | Texture Paint Mode|
+| <kbd>8</kbd> | Texture Paint Mode|
 
 | **Workspaces** ||
 |---|---|
 | _Key_ | _Action_ |
-| <kbd>Ctrl</kbd><kbd>Tab</kbd> | Cycle Workspaces Right |
-| <kbd>Shift</kbd><kbd>Ctrl</kbd><kbd>Tab</kbd> | Cycle Workspace Left |
+| <kbd>Ctrl</kbd><kbd>Tab</kbd> | Cycle Workspace Tab Right |
+| <kbd>Shift</kbd><kbd>Ctrl</kbd><kbd>Tab</kbd> | Cycle Workspace Tab Left |
 
 | **Tools** ||
 |---|---|
