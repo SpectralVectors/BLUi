@@ -70,6 +70,10 @@ The full list of Community Addons is below:
 | <kbd>N</kbd> | Show/Hide Properties Panel |
 | <kbd>F11</kbd> | Maximize Viewport |
 | <kbd>F</kbd> | Focus on Selected Object |
+| <kbd>Alt</kbd>+<kbd>Left Mouse</kbd> | Rotate View |
+| <kbd>Alt</kbd>+<kbd>Middle Mouse</kbd> | Pan View |
+| <kbd>Alt</kbd>+<kbd>Right Mouse</kbd> | Zoom View |
+
 
 
 | **Node Editor** ||
