@@ -56,12 +56,15 @@ The full list of Community Addons is below:
 | **Tools** ||
 |---|---|
 | Key | Action |
-<kbd>Q</kbd> Select Tool
-<kbd>W</kbd> Move Tool
-<kbd>E</kbd> Rotate Tool
-<kbd>R</kbd> Scale Tool
-<kbd>T</kbd> Transform Tool
+| <kbd>Q</kbd> | Select Tool |
+| <kbd>W</kbd> | Move Tool |
+| <kbd>E</kbd> | Rotate Tool |
+| <kbd>R</kbd> | Scale Tool |
+| <kbd>T</kbd> | Transform Tool |
 
-<kbd>Shift</kbd><kbd>A</kbd> Add Mesh
-<kbd>N</kbd> Show/Hide Properties Panel
+| **3D Viewport** ||
+|---|---|
+| <kbd>Shift</kbd><kbd>A</kbd> | Add Mesh |
+| <kbd>N</kbd> | Show/Hide Properties Panel |
+| Right Mouse | Walk Navigation & Context Menus |
 
