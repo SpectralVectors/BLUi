@@ -65,7 +65,23 @@ The full list of Community Addons is below:
 | **3D Viewport** ||
 |---|---|
 | _Key_ | _Action_ |
+| <kbd>Right Mouse</kbd> | Walk Navigation & Context Menus |
 | <kbd>Shift</kbd><kbd>A</kbd> | Add Mesh |
 | <kbd>N</kbd> | Show/Hide Properties Panel |
-| <kbd>Right Mouse</kbd> | Walk Navigation & Context Menus |
+| <kbd>F11</kbd> | Maximize Viewport |
+| <kbd>F</kbd> | Focus on Selected Object |
+
+
+| **Node Editor** ||
+|---|---|
+| _Key_ | _Action_ |
+| <kbd>Right Mouse</kbd> | Pan View & Search/Add Nodes |
+| <kbd>Middle Mouse</kbd> | Cut Connections |
+| <kbd>C</kbd> | Comment Box |
+| <kbd>Left Mouse</kbd><kbd>Double Click</kbd> | Add Reroute Node |
+| <kbd>S</kbd><kbd>Left Mouse</kbd><kbd>Click</kbd> | Add Value Node |
+| <kbd>M</kbd><kbd>Left Mouse</kbd><kbd>Click</kbd> | Add Math Node |
+| <kbd>U</kbd><kbd>Left Mouse</kbd><kbd>Click</kbd> | Add Texture Coordinate Node |
+| <kbd>T</kbd><kbd>Left Mouse</kbd><kbd>Click</kbd> | Add Image Texture Node |
+| <kbd>B</kbd><kbd>Left Mouse</kbd><kbd>Click</kbd> | Add Bump Node |
 
