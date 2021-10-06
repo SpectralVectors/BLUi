@@ -35,23 +35,39 @@ The full list of Community Addons is below:
 ## Keyboard Shortcuts
 
 <kbd>1</kbd> Vertex Mode
+
 <kbd>2</kbd> Edge Mode
+
 <kbd>3</kbd> Face Mode
+
 <kbd>4</kbd> Object Mode
+
 <kbd>5</kbd> Sculpt Mode
+
 <kbd>6</kbd> Vertex Paint Mode
+
 <kbd>7</kbd> Weight Paint Mode
+
 <kbd>9</kbd> Texture Paint Mode
 
+
 <kbd>Ctrl</kbd><kbd>Tab</kbd> Cycle Workspaces Right
+
 <kbd>Shift</kbd><kbd>Ctrl</kbd><kbd>Tab</kbd> Cycle Workspace Left
 
+
 <kbd>Q</kbd> Select Tool
+
 <kbd>W</kbd> Move Tool
+
 <kbd>E</kbd> Rotate Tool
+
 <kbd>R</kbd> Scale Tool
+
 <kbd>T</kbd> Transform Tool
 
+
 <kbd>Shift</kbd><kbd>A</kbd> Add Mesh
+
 <kbd>N</kbd> Show/Hide Properties Panel
 
