@@ -50,6 +50,7 @@ The full list of Community Addons is below:
 | **Workspaces** ||
 |---|---|
 | _Key_ | _Action_ |
+| <kbd>Tab</kbd> | Search Menu |
 | <kbd>Ctrl</kbd>+<kbd>Tab</kbd> | Cycle Workspace Tab Right |
 | <kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Tab</kbd> | Cycle Workspace Tab Left |
 
