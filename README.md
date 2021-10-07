@@ -122,3 +122,7 @@ The full list of Community Addons is below:
 | <kbd>T</kbd>+<kbd>Left Mouse Click</kbd> | Add **Image Texture** Node |
 | <kbd>B</kbd>+<kbd>Left Mouse Click</kbd> | Add **Bump** Node |
 
+
+## Ackowledgements & Thanks:
+  
+Blender Org, Epic Games, Jim Kroovy, Jayanam, falola, RealityRig, deathclonic, Yughues, lateasusual, AnubisMaster, Michael McCann, Wayward Art Company, knekke, cgvirus, Bone Studio, Hellgate94, bandages, Blender Guru, sonnenbrillenbrauchenlicht, Dawid Huczynski, Campbell Barton, Daniel Engler, Wolfen420, NXGEN, WolfinWool, Gamemakin LLC, CG Matter, Royal Skies LLC, Sybren Stuvel, Pablo Vasquez, Darkfall, angjminer, SirSpence, batFinger and all the other contributors at Blender Stack Exchange, where I've spent countless hours, thank you! 
