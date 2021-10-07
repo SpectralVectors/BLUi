@@ -35,6 +35,7 @@ The full list of Community Addons is below:
 ## Keyboard Shortcuts
 
 ![Keymap](BLUI_084_Keymap.png)
+_(Courtesy of http://www.keyboard-layout-editor.com/)_
 
 ### Modes
 | <kbd>1</kbd> | **Vertex** Mode |
