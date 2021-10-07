@@ -35,6 +35,7 @@ The full list of Community Addons is below:
 ## Keyboard Shortcuts
 
 ```json
+
 [
   {
     "background": {
@@ -402,6 +403,7 @@ The full list of Community Addons is below:
     ".\nDel"
   ]
 ]
+
 ```
 
 **_Modes_**
