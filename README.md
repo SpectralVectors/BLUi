@@ -34,7 +34,7 @@ The full list of Community Addons is below:
 
 ## Keyboard Shortcuts
 
-```javascript
+```css
 
 [
   {
