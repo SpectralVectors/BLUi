@@ -86,18 +86,30 @@ The full list of Community Addons is below:
 |---:|:---|
 | <kbd>Shift</kbd>+<kbd>A</kbd> | **Add Mesh** Menu |
 | <kbd>N</kbd> | Show/Hide **Properties Panel** |
-| <kbd>F11</kbd>or<kbd>Ctrl</kbd>+<kbd>Space<kbd> | **Maximize** Viewport |
 | <kbd>F</kbd> | **Focus** on Selected Object |
+| <kbd>F11</kbd>or<kbd>Ctrl</kbd>+<kbd>Space<kbd> | **Maximize** Viewport |
 | <kbd>Alt</kbd>+<kbd>Left Mouse</kbd> | **Rotate** View |
 | <kbd>Alt</kbd>+<kbd>Middle Mouse</kbd> | **Pan** View |
 | <kbd>Alt</kbd>+<kbd>Right Mouse</kbd> | **Zoom** View |
+| <kbd>Numpad 5</kbd> | Toggle **Perspective/Orthographic** |
+| <kbd>Numpad 0</kbd> | View **Camera** |
+| <kbd>Numpad 1</kbd> | View **Front** |
+| <kbd>Ctrl</kbd>+<kbd>Numpad 1</kbd> | View **Back** |
+| <kbd>Numpad 3</kbd> | View **Right** |
+| <kbd>Ctrl</kbd>+<kbd>Numpad 3</kbd> | View **Left** |
+| <kbd>Numpad 7</kbd> | View **Top** |
+| <kbd>Ctrl</kbd>+<kbd>Numpad 7</kbd> | View **Bottom** |
+| <kbd>Numpad 4</kbd> | View **Orbit Left** |
+| <kbd>Numpad 6</kbd> | View **Orbit Right** |
+| <kbd>Numpad 8</kbd> | View **Orbit Up** |
+| <kbd>Numpad 2</kbd> | View **Orbit Down** |
 | <kbd>V</kbd> | **Views** Pie Menu |
 | <kbd>,</kbd> | **Transform Orientation** Pie Menu |
 | <kbd>.</kbd> | **Transform Pivot Point** Pie Menu |
 | <kbd>Z</kbd> | Marquee Select **Zoom** |
 | <kbd>X</kbd> | Toggle **Snapping** |
 
-
+  
 **_Node Editor_**
 
 | <kbd>Right Mouse</kbd> | Pan View & **Search/Add Nodes** |
