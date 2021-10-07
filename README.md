@@ -38,62 +38,62 @@ The full list of Community Addons is below:
 | **Modes** ||
 |---|---|
 | _Key_ | _Action_ |
-| <kbd>**1**</kbd> | **Vertex** Mode |
-| <kbd>2</kbd> | Edge Mode |
-| <kbd>3</kbd> | Face Mode |
-| <kbd>4</kbd> | Object Mode |
-| <kbd>5</kbd> | Sculpt Mode |
-| <kbd>6</kbd> | Vertex Paint Mode |
-| <kbd>7</kbd> | Weight Paint Mode |
-| <kbd>8</kbd> | Texture Paint Mode|
+| <kbd>1</kbd> | **Vertex** Mode |
+| <kbd>2</kbd> | **Edge** Mode |
+| <kbd>3</kbd> | **Face** Mode |
+| <kbd>4</kbd> | **Object** Mode |
+| <kbd>5</kbd> | **Sculpt** Mode |
+| <kbd>6</kbd> | **Vertex Paint** Mode |
+| <kbd>7</kbd> | **Weight Paint** Mode |
+| <kbd>8</kbd> | **Texture Paint** Mode|
 
 | **Workspaces** ||
 |---|---|
 | _Key_ | _Action_ |
-| <kbd>Tab</kbd> | Search Menu |
-| <kbd>Ctrl</kbd>+<kbd>Tab</kbd> | Cycle Workspace Tab Right |
-| <kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Tab</kbd> | Cycle Workspace Tab Left |
-| <kbd>`</kbd> | Toggle System Console |
+| <kbd>Tab</kbd> | **Search** Menu |
+| <kbd>Ctrl</kbd>+<kbd>Tab</kbd> | Cycle Workspace Tab **Right** |
+| <kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Tab</kbd> | Cycle Workspace Tab **Left** |
+| <kbd>`</kbd> | Toggle **System Console** |
 
 | **Tools** ||
 |---|---|
 | _Key_ | _Action_ |
-| <kbd>Q</kbd> | Cycle Select Tools |
-| <kbd>W</kbd> | Move Tool |
-| <kbd>E</kbd> | Rotate Tool |
-| <kbd>R</kbd> | Cycle Scale Tools |
-| <kbd>T</kbd> | Transform Tool |
-| <kbd>D</kbd> | Cycle Annotation Tools |
-| <kbd>M</kbd> | Measure Tool |
-| <kbd>C</kbd> | 3D Cursor Tool |
+| <kbd>Q</kbd> | Cycle **Select** Tools |
+| <kbd>W</kbd> | **Move** Tool |
+| <kbd>E</kbd> | **Rotate** Tool |
+| <kbd>R</kbd> | Cycle **Scale** Tools |
+| <kbd>T</kbd> | **Transform** Tool |
+| <kbd>D</kbd> | Cycle **Annotation** Tools |
+| <kbd>M</kbd> | **Measure** Tool |
+| <kbd>C</kbd> | **3D Cursor** |
 
 | **3D Viewport** ||
 |---|---|
 | _Key_ | _Action_ |
-| <kbd>Right Mouse</kbd> | Viewport Navigation & Context Menus |
-| <kbd>Shift</kbd>+<kbd>A</kbd> | Add Mesh |
-| <kbd>N</kbd> | Show/Hide Properties Panel |
-| <kbd>F11</kbd>or<kbd>Ctrl</kbd>+<kbd>Space<kbd> | Maximize Viewport |
-| <kbd>F</kbd> | Focus on Selected Object |
-| <kbd>Alt</kbd>+<kbd>Left Mouse</kbd> | Rotate View |
-| <kbd>Alt</kbd>+<kbd>Middle Mouse</kbd> | Pan View |
-| <kbd>Alt</kbd>+<kbd>Right Mouse</kbd> | Zoom View |
-| <kbd>V</kbd> | Views Pie Menu |
-| <kbd>,</kbd> | Transform Orientation Pie Menu |
-| <kbd>.</kbd> | Transform Pivot Point Pie Menu |
-| <kbd>Z</kbd> | Marquee Select Zoom |
-| <kbd>X</kbd> | Toggle Snapping |
+| <kbd>Right Mouse</kbd> | Viewport **Navigation** & Context Menus |
+| <kbd>Shift</kbd>+<kbd>A</kbd> | **Add Mesh** Menu |
+| <kbd>N</kbd> | Show/Hide **Properties Panel** |
+| <kbd>F11</kbd>or<kbd>Ctrl</kbd>+<kbd>Space<kbd> | **Maximize** Viewport |
+| <kbd>F</kbd> | **Focus** on Selected Object |
+| <kbd>Alt</kbd>+<kbd>Left Mouse</kbd> | **Rotate** View |
+| <kbd>Alt</kbd>+<kbd>Middle Mouse</kbd> | **Pan** View |
+| <kbd>Alt</kbd>+<kbd>Right Mouse</kbd> | **Zoom** View |
+| <kbd>V</kbd> | **Views** Pie Menu |
+| <kbd>,</kbd> | **Transform Orientation** Pie Menu |
+| <kbd>.</kbd> | **Transform Pivot Point** Pie Menu |
+| <kbd>Z</kbd> | Marquee Select **Zoom** |
+| <kbd>X</kbd> | Toggle **Snapping** |
 
 | **Node Editor** ||
 |---|---|
 | _Key_ | _Action_ |
-| <kbd>Right Mouse</kbd> | Pan View & Search/Add Nodes |
-| <kbd>Middle Mouse</kbd> | Cut Connections |
-| <kbd>C</kbd> | Comment Box |
-| <kbd>Left Mouse Double Click</kbd> | Add Reroute Node |
-| <kbd>S</kbd>+<kbd>Left Mouse Click</kbd> | Add Value Node |
-| <kbd>M</kbd>+<kbd>Left Mouse Click</kbd> | Add Math Node |
-| <kbd>U</kbd>+<kbd>Left Mouse Click</kbd> | Add Texture Coordinate Node |
-| <kbd>T</kbd>+<kbd>Left Mouse Click</kbd> | Add Image Texture Node |
-| <kbd>B</kbd>+<kbd>Left Mouse Click</kbd> | Add Bump Node |
+| <kbd>Right Mouse</kbd> | Pan View & **Search/Add Nodes** |
+| <kbd>Middle Mouse</kbd> | **Cut Connections** |
+| <kbd>C</kbd> | **Comment Box** |
+| <kbd>Left Mouse Double Click</kbd> | Add **Reroute** Node |
+| <kbd>S</kbd>+<kbd>Left Mouse Click</kbd> | Add **Value** Node |
+| <kbd>M</kbd>+<kbd>Left Mouse Click</kbd> | Add **Math** Node |
+| <kbd>U</kbd>+<kbd>Left Mouse Click</kbd> | Add **Texture Coordinate** Node |
+| <kbd>T</kbd>+<kbd>Left Mouse Click</kbd> | Add **Image Texture** Node |
+| <kbd>B</kbd>+<kbd>Left Mouse Click</kbd> | Add **Bump** Node |
 
