@@ -37,7 +37,6 @@ The full list of Community Addons is below:
 
 |**_Modes_**||
 |---:|:---|
-| _Key_ | _Action_ |
 | <kbd>1</kbd> | **Vertex** Mode |
 | <kbd>2</kbd> | **Edge** Mode |
 | <kbd>3</kbd> | **Face** Mode |
@@ -49,7 +48,6 @@ The full list of Community Addons is below:
 
 |**_Workspaces_**||
 |---:|:---|
-| _Key_ | _Action_ |
 | <kbd>Tab</kbd> | **Search** Menu |
 | <kbd>Ctrl</kbd>+<kbd>Tab</kbd> | Cycle Workspace Tab **Right** |
 | <kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Tab</kbd> | Cycle Workspace Tab **Left** |
@@ -57,7 +55,6 @@ The full list of Community Addons is below:
 
 |**_Tools_**|_Object_|
 |---:|:---|
-| _Key_ | _Action_ |
 | <kbd>Q</kbd> | Cycle **Select** Tools |
 | <kbd>W</kbd> | **Move** Tool |
 | <kbd>E</kbd> | **Rotate** Tool |
@@ -69,7 +66,6 @@ The full list of Community Addons is below:
 
 |**_Tools_**|_Edit Mesh_|
 |---:|:---|
-| _Key_ | _Action_ |
 | <kbd>Ctrl</kbd>+<kbd>E</kbd> | Cycle **Extrude** Tools |
 | <kbd>I</kbd> | **Inset Faces** Tool |
 | <kbd>Ctrl</kbd>+<kbd>B</kbd> | **Bevel** Tool |
@@ -78,7 +74,6 @@ The full list of Community Addons is below:
 
 | **_3D Viewport_** ||
 |---:|:---|
-| _Key_ | _Action_ |
 | <kbd>Right Mouse</kbd> | Viewport **Navigation** & Context Menus |
 | <kbd>Shift</kbd>+<kbd>A</kbd> | **Add Mesh** Menu |
 | <kbd>N</kbd> | Show/Hide **Properties Panel** |
@@ -95,7 +90,6 @@ The full list of Community Addons is below:
 
 | **_Node Editor_** ||
 |---:|:---|
-| _Key_ | _Action_ |
 | <kbd>Right Mouse</kbd> | Pan View & **Search/Add Nodes** |
 | <kbd>Middle Mouse</kbd> | **Cut Connections** |
 | <kbd>C</kbd> | **Comment Box** |
