@@ -35,7 +35,7 @@ The full list of Community Addons is below:
 ## Keyboard Shortcuts
 
 
-**Modes**
+**_Modes_**
 
 | <kbd>1</kbd> | **Vertex** Mode |
 |---:|:---|
@@ -48,7 +48,7 @@ The full list of Community Addons is below:
 | <kbd>8</kbd> | **Texture Paint** Mode|
 
 
-**Workspaces**
+**_Workspaces_**
 
 | <kbd>Tab</kbd> | **Search** Menu |
 |---:|:---|
