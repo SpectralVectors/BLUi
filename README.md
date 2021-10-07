@@ -22,7 +22,7 @@ The total size is ~40mb, so, depending on the speed of your internet connection,
 
 Please be patient, and, when the addons are all installed, the BLUI splashscreen will appear!
 
-This will only happen if you don't already have the addons installed, and, once they are installed, startup is quick.
+This will only happen if you don't already have the addons installed, and, once they are installed, startup is only a few seconds.
 
 The full list of Community Addons is below:
 
