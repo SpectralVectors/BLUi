@@ -46,12 +46,14 @@ The full list of Community Addons is below:
 | <kbd>7</kbd> | **Weight Paint** Mode |
 | <kbd>8</kbd> | **Texture Paint** Mode|
 
+
 |**_Workspaces_**||
 |---:|:---|
 | <kbd>Tab</kbd> | **Search** Menu |
 | <kbd>Ctrl</kbd>+<kbd>Tab</kbd> | Cycle Workspace Tab **Right** |
 | <kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Tab</kbd> | Cycle Workspace Tab **Left** |
 | <kbd>`</kbd> | Toggle **System Console** |
+
 
 |**_Tools_**|_Object_|
 |---:|:---|
@@ -64,6 +66,7 @@ The full list of Community Addons is below:
 | <kbd>M</kbd> | **Measure** Tool |
 | <kbd>C</kbd> | **3D Cursor** |
 
+
 |**_Tools_**|_Edit Mesh_|
 |---:|:---|
 | <kbd>Ctrl</kbd>+<kbd>E</kbd> | Cycle **Extrude** Tools |
@@ -71,6 +74,7 @@ The full list of Community Addons is below:
 | <kbd>Ctrl</kbd>+<kbd>B</kbd> | **Bevel** Tool |
 | <kbd>Alt</kbd>+<kbd>C</kbd> | Cycle **Loop Cut** Tools |
 | <kbd>K</kbd> | Cycle **Knife/Bisect** Tools |
+
 
 | **_3D Viewport_** ||
 |---:|:---|
@@ -87,6 +91,7 @@ The full list of Community Addons is below:
 | <kbd>.</kbd> | **Transform Pivot Point** Pie Menu |
 | <kbd>Z</kbd> | Marquee Select **Zoom** |
 | <kbd>X</kbd> | Toggle **Snapping** |
+
 
 | **_Node Editor_** ||
 |---:|:---|
