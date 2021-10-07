@@ -36,8 +36,9 @@ The full list of Community Addons is below:
 
 
 |**_Modes_**||
-|---:|:---|
+
 | <kbd>1</kbd> | **Vertex** Mode |
+|---:|:---|
 | <kbd>2</kbd> | **Edge** Mode |
 | <kbd>3</kbd> | **Face** Mode |
 | <kbd>4</kbd> | **Object** Mode |
