@@ -35,7 +35,7 @@ The full list of Community Addons is below:
 ## Keyboard Shortcuts
 
 
-|**_Modes_**||
+**Modes**
 
 | <kbd>1</kbd> | **Vertex** Mode |
 |---:|:---|
@@ -48,17 +48,19 @@ The full list of Community Addons is below:
 | <kbd>8</kbd> | **Texture Paint** Mode|
 
 
-|**_Workspaces_**||
-|---:|:---|
+**Workspaces**
+
 | <kbd>Tab</kbd> | **Search** Menu |
+|---:|:---|
 | <kbd>Ctrl</kbd>+<kbd>Tab</kbd> | Cycle Workspace Tab **Right** |
 | <kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Tab</kbd> | Cycle Workspace Tab **Left** |
 | <kbd>`</kbd> | Toggle **System Console** |
 
 
-|**_Tools_**|_Object_|
-|---:|:---|
+**_Tools_** - _Object_
+
 | <kbd>Q</kbd> | Cycle **Select** Tools |
+|---:|:---|
 | <kbd>W</kbd> | **Move** Tool |
 | <kbd>E</kbd> | **Rotate** Tool |
 | <kbd>R</kbd> | Cycle **Scale** Tools |
@@ -68,18 +70,20 @@ The full list of Community Addons is below:
 | <kbd>C</kbd> | **3D Cursor** |
 
 
-|**_Tools_**|_Edit Mesh_|
-|---:|:---|
+**_Tools_** - _Edit Mesh_
+
 | <kbd>Ctrl</kbd>+<kbd>E</kbd> | Cycle **Extrude** Tools |
+|---:|:---|
 | <kbd>I</kbd> | **Inset Faces** Tool |
 | <kbd>Ctrl</kbd>+<kbd>B</kbd> | **Bevel** Tool |
 | <kbd>Alt</kbd>+<kbd>C</kbd> | Cycle **Loop Cut** Tools |
 | <kbd>K</kbd> | Cycle **Knife/Bisect** Tools |
 
 
-| **_3D Viewport_** ||
-|---:|:---|
+**_3D Viewport_**
+
 | <kbd>Right Mouse</kbd> | Viewport **Navigation** & Context Menus |
+|---:|:---|
 | <kbd>Shift</kbd>+<kbd>A</kbd> | **Add Mesh** Menu |
 | <kbd>N</kbd> | Show/Hide **Properties Panel** |
 | <kbd>F11</kbd>or<kbd>Ctrl</kbd>+<kbd>Space<kbd> | **Maximize** Viewport |
@@ -94,9 +98,10 @@ The full list of Community Addons is below:
 | <kbd>X</kbd> | Toggle **Snapping** |
 
 
-| **_Node Editor_** ||
-|---:|:---|
+**_Node Editor_**
+
 | <kbd>Right Mouse</kbd> | Pan View & **Search/Add Nodes** |
+  |---:|:---|
 | <kbd>Middle Mouse</kbd> | **Cut Connections** |
 | <kbd>C</kbd> | **Comment Box** |
 | <kbd>Left Mouse Double Click</kbd> | Add **Reroute** Node |
