@@ -35,7 +35,7 @@ The full list of Community Addons is below:
 ## Keyboard Shortcuts
 
 
-||**_Modes_**|
+|:**_Modes_**||
 |---:|:---|
 | _Key_ | _Action_ |
 | <kbd>1</kbd> | **Vertex** Mode |
