@@ -37,7 +37,6 @@ The full list of Community Addons is below:
 ![Keymap](BLUI_084_Keymap.png)
 
 ### Modes
-
 | <kbd>1</kbd> | **Vertex** Mode |
 |---:|:---|
 | <kbd>2</kbd> | **Edge** Mode |
@@ -48,8 +47,7 @@ The full list of Community Addons is below:
 | <kbd>7</kbd> | **Weight Paint** Mode |
 | <kbd>8</kbd> | **Texture Paint** Mode|
 
-
-**_Workspaces_**
+### Workspaces
 
 | <kbd>Tab</kbd> | **Search** Menu |
 |---:|:---|
@@ -58,7 +56,7 @@ The full list of Community Addons is below:
 | <kbd>`</kbd> | Toggle **System Console** |
 
 
-**_Tools_** - _Object_
+### Tools - Object
 
 | <kbd>Q</kbd> | Cycle **Select** Tools |
 |---:|:---|
@@ -70,8 +68,7 @@ The full list of Community Addons is below:
 | <kbd>M</kbd> | **Measure** Tool |
 | <kbd>C</kbd> | **3D Cursor** |
 
-
-**_Tools_** - _Edit Mesh_
+### Tools - Edit Mesh
 
 | <kbd>Ctrl</kbd>+<kbd>E</kbd> | Cycle **Extrude** Tools |
 |---:|:---|
@@ -81,7 +78,7 @@ The full list of Community Addons is below:
 | <kbd>K</kbd> | Cycle **Knife/Bisect** Tools |
 
 
-**_3D Viewport_**
+### 3D Viewport
 
 | <kbd>Right Mouse</kbd> | Viewport **Navigation** & Context Menus |
 |---:|:---|
@@ -110,7 +107,7 @@ The full list of Community Addons is below:
 | <kbd>Shift</kbd>+<kbd>A</kbd> | **Add Mesh** Menu |
 | <kbd>N</kbd> | Show/Hide **Properties Panel** |
   
-**_Node Editor_**
+### Node Editor
 
 | <kbd>Right Mouse</kbd> | Pan View & **Search/Add Nodes** |
   |---:|:---|
