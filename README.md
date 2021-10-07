@@ -84,8 +84,6 @@ The full list of Community Addons is below:
 
 | <kbd>Right Mouse</kbd> | Viewport **Navigation** & Context Menus |
 |---:|:---|
-| <kbd>Shift</kbd>+<kbd>A</kbd> | **Add Mesh** Menu |
-| <kbd>N</kbd> | Show/Hide **Properties Panel** |
 | <kbd>F</kbd> | **Focus** on Selected Object |
 | <kbd>F11</kbd>or<kbd>Ctrl</kbd>+<kbd>Space<kbd> | **Maximize** Viewport |
 | <kbd>Alt</kbd>+<kbd>Left Mouse</kbd> | **Rotate** View |
@@ -108,7 +106,8 @@ The full list of Community Addons is below:
 | <kbd>.</kbd> | **Transform Pivot Point** Pie Menu |
 | <kbd>Z</kbd> | Marquee Select **Zoom** |
 | <kbd>X</kbd> | Toggle **Snapping** |
-
+| <kbd>Shift</kbd>+<kbd>A</kbd> | **Add Mesh** Menu |
+| <kbd>N</kbd> | Show/Hide **Properties Panel** |
   
 **_Node Editor_**
 
