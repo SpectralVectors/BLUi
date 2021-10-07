@@ -55,7 +55,7 @@ The full list of Community Addons is below:
 | <kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Tab</kbd> | Cycle Workspace Tab **Left** |
 | <kbd>`</kbd> | Toggle **System Console** |
 
-|**_Tools_**||
+|**_Tools_**|Object|
 |---:|:---|
 | _Key_ | _Action_ |
 | <kbd>Q</kbd> | Cycle **Select** Tools |
@@ -66,6 +66,15 @@ The full list of Community Addons is below:
 | <kbd>D</kbd> | Cycle **Annotation** Tools |
 | <kbd>M</kbd> | **Measure** Tool |
 | <kbd>C</kbd> | **3D Cursor** |
+
+|**_Tools_**|Edit Mesh|
+|---:|:---|
+| _Key_ | _Action_ |
+| <kbd>Ctrl</kbd>+<kbd>E</kbd> | Cycle **Extrude** Tools |
+| <kbd>I</kbd> | **Inset Faces** Tool |
+| <kbd>Ctrl</kbd>+<kbd>B</kbd> | **Bevel** Tool |
+| <kbd>Alt</kbd>+<kbd>C</kbd> | Cycle **Loop Cut** Tools |
+| <kbd>K</kbd> | Cycle **Knife/Bisect** Tools |
 
 | **_3D Viewport_** ||
 |---:|:---|
