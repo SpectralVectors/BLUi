@@ -36,7 +36,7 @@ The full list of Community Addons is below:
 
 
 | **Modes** ||
-|---|---|
+|---:|:---|
 | _Key_ | _Action_ |
 | <kbd>1</kbd> | **Vertex** Mode |
 | <kbd>2</kbd> | **Edge** Mode |
@@ -48,7 +48,7 @@ The full list of Community Addons is below:
 | <kbd>8</kbd> | **Texture Paint** Mode|
 
 | **Workspaces** ||
-|---|---|
+|---:|:---|
 | _Key_ | _Action_ |
 | <kbd>Tab</kbd> | **Search** Menu |
 | <kbd>Ctrl</kbd>+<kbd>Tab</kbd> | Cycle Workspace Tab **Right** |
