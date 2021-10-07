@@ -47,7 +47,7 @@ The full list of Community Addons is below:
 | <kbd>7</kbd> | **Weight Paint** Mode |
 | <kbd>8</kbd> | **Texture Paint** Mode|
 
-|Type:|**_Workspaces_**|
+||**_Workspaces_**|
 |---:|:---|
 | _Key_ | _Action_ |
 | <kbd>Tab</kbd> | **Search** Menu |
@@ -55,7 +55,7 @@ The full list of Community Addons is below:
 | <kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Tab</kbd> | Cycle Workspace Tab **Left** |
 | <kbd>`</kbd> | Toggle **System Console** |
 
-|Type|**_Tools_**|
+||**_Tools_**|
 |---:|:---|
 | _Key_ | _Action_ |
 | <kbd>Q</kbd> | Cycle **Select** Tools |
@@ -67,7 +67,7 @@ The full list of Community Addons is below:
 | <kbd>M</kbd> | **Measure** Tool |
 | <kbd>C</kbd> | **3D Cursor** |
 
-|Type| **_3D Viewport_** |
+|| **_3D Viewport_** |
 |---:|:---|
 | _Key_ | _Action_ |
 | <kbd>Right Mouse</kbd> | Viewport **Navigation** & Context Menus |
@@ -84,7 +84,7 @@ The full list of Community Addons is below:
 | <kbd>Z</kbd> | Marquee Select **Zoom** |
 | <kbd>X</kbd> | Toggle **Snapping** |
 
-|Type| **_Node Editor_** |
+|| **_Node Editor_** |
 |---:|:---|
 | _Key_ | _Action_ |
 | <kbd>Right Mouse</kbd> | Pan View & **Search/Add Nodes** |
