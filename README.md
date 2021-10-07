@@ -56,7 +56,7 @@ The full list of Community Addons is below:
 | <kbd>`</kbd> | Toggle **System Console** |
 
 | **Tools** ||
-|---|---|
+|---:|:---|
 | _Key_ | _Action_ |
 | <kbd>Q</kbd> | Cycle **Select** Tools |
 | <kbd>W</kbd> | **Move** Tool |
@@ -68,7 +68,7 @@ The full list of Community Addons is below:
 | <kbd>C</kbd> | **3D Cursor** |
 
 | **3D Viewport** ||
-|---|---|
+|---:|:---|
 | _Key_ | _Action_ |
 | <kbd>Right Mouse</kbd> | Viewport **Navigation** & Context Menus |
 | <kbd>Shift</kbd>+<kbd>A</kbd> | **Add Mesh** Menu |
@@ -85,7 +85,7 @@ The full list of Community Addons is below:
 | <kbd>X</kbd> | Toggle **Snapping** |
 
 | **Node Editor** ||
-|---|---|
+|---:|:---|
 | _Key_ | _Action_ |
 | <kbd>Right Mouse</kbd> | Pan View & **Search/Add Nodes** |
 | <kbd>Middle Mouse</kbd> | **Cut Connections** |
