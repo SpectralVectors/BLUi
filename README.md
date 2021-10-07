@@ -36,7 +36,7 @@ The full list of Community Addons is below:
 
 ![Keymap](BLUI_084_Keymap.png)
 
-**_Modes_**
+### Modes
 
 | <kbd>1</kbd> | **Vertex** Mode |
 |---:|:---|
