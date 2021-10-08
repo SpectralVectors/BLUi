@@ -124,4 +124,6 @@ _(Courtesy of [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/))_
 
 ## Ackowledgements & Thanks:
   
-Blender Org, Epic Games, Jim Kroovy, Jayanam, falola, RealityRig, deathclonic, Yughues, lateasusual, AnubisMaster, Michael McCann, Wayward Art Company, knekke, cgvirus, Bone Studio, Hellgate94, bandages, Blender Guru, sonnenbrillenbrauchenlicht, Dawid Huczynski, Campbell Barton, Daniel Engler, Wolfen420, NXGEN, WolfinWool, Gamemakin LLC, CG Matter, Royal Skies LLC, Sybren Stuvel, Pablo Vasquez, Darkfall, angjminer, SirSpence, batFinger and all the other contributors at Blender Stack Exchange, where I've spent countless hours, thank you! 
+Blender Org, Epic Games, Jim Kroovy, Jayanam, falola, RealityRig, deathclonic, Yughues, lateasusual, AnubisMaster, Michael McCann, Wayward Art Company, knekke, cgvirus, Bone Studio, Hellgate94, bandages, Blender Guru, sonnenbrillenbrauchenlicht, Dawid Huczynski, Campbell Barton, Daniel Engler, Wolfen420, NXGEN, WolfinWool, Gamemakin LLC, CG Matter, Royal Skies LLC, Sybren Stuvel, Pablo Vasquez, Darkfall, angjminer, SirSpence, batFinger and all the other contributors at Blender Stack Exchange, where I've spent countless hours, thank you!
+  
+Roboto-Regular.ttf by Christian Robertson was provided by Google Fonts, under the Apache license.
