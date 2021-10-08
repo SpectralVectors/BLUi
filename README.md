@@ -1,10 +1,10 @@
-# BLUI - Blender Unreal Interface
+# BLUi - Blender Unreal Interface
 
-![BLUI Splash](https://github.com/SpectralVectors/BLUI/blob/main/splash.png)
+![BLUi Splash](https://github.com/SpectralVectors/BLUI/blob/main/splash.png)
 
 ## How to Install
 
-Download __BLUI.zip__ from the Releases section on the right.
+Download __BLUi.zip__ from the Releases section on the right.
 
 Open __Blender__, and click on the __Blender__ logo in the top left corner.
 
@@ -16,7 +16,7 @@ To use the template, go to __File > New > BLUI__.
 
 ## NOTE
 
-BLUI runs a startup script that will check for a number of community addons, and, if they're not found, download, install and activate them.
+BLUi runs a startup script that will check for a number of community addons, and, if they're not found, download, install and activate them.
 
 The total size is ~40mb, so, depending on the speed of your internet connection, Blender may appear to be frozen for a few minutes!
 
