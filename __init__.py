@@ -1,4 +1,4 @@
-# BLUI v0.8.4
+# BLUI v0.8.5
 
 import bpy, os, urllib.request, addon_utils
 from bpy.app.handlers import persistent
@@ -9,10 +9,14 @@ def load_handler_for_preferences(_):
 
     string = bpy.app.version_string
     blenderversion = string.rstrip(string[-2:])
-    keymap_filepath = str(os.path.expanduser('~/AppData/Roaming/Blender Foundation/Blender/')) + blenderversion + str('/scripts/startup/bl_app_templates_user/BLUI/BLUI_Keymap.py')
+    template_folder = str(os.path.expanduser('~/AppData/Roaming/Blender Foundation/Blender/')) + blenderversion + '/scripts/startup/bl_app_templates_user/BLUI/'
+    keymap_filepath = template_folder + 'BLUI_Keymap.py'
+    theme_filepath = template_folder + 'BLUI_Theme.xml'
+    font_filepath = template_folder + 'Roboto-Regular.ttf'
 
     bpy.ops.preferences.keyconfig_import(filepath=keymap_filepath)
-    #bpy.ops.preferences.keyconfig_activate(filepath=keymap_filepath)
+    bpy.ops.preferences.theme_install(filepath=theme_filepath)
+    bpy.context.preferences.view.font_path_ui = font_filepath
 
 @persistent
 def load_handler_for_startup(_):
@@ -89,9 +93,11 @@ def register():
     print("Registering to Change Defaults")
     bpy.app.handlers.load_factory_preferences_post.append(load_handler_for_preferences)
     bpy.app.handlers.load_factory_startup_post.append(load_handler_for_startup)
-
+    
 
 def unregister():
     print("Unregistering to Change Defaults")
     bpy.app.handlers.load_factory_preferences_post.remove(load_handler_for_preferences)
     bpy.app.handlers.load_factory_startup_post.remove(load_handler_for_startup)
+    bpy.ops.preferences.keymap_restore(all=True)
+    
