@@ -44,7 +44,7 @@ def load_handler_for_startup(_):
     addon3['url'] = 'https://github.com/SavMartin/TexTools-Blender/releases/download/v1.4.4/TexTools_1_4_4.zip'
 
     addon4 = addon.copy()
-    addon4['addon_name'] = 'ModifierList'
+    addon4['addon_name'] = 'modifier_list'
     addon4['url'] = 'https://github.com/Symstract/modifier_list/releases/download/v1.7.1/modifier_list_1.7.1.zip'
 
     addon5 = addon.copy()
@@ -66,7 +66,7 @@ def load_handler_for_startup(_):
         if addon_utils.check('TexTools_1_4_4') == (True, False):
             addons.append(addon3)      
             
-        if addon_utils.check('ModifierList') == (True, False):
+        if addon_utils.check('modifier_list') == (True, False):
             addons.append(addon4)       
             
         if addon_utils.check('RightMouseNavigation') == (True, False):
