@@ -28,7 +28,7 @@ The full list of Community Addons is below:
 
 - Jim Kroovy's Mr Mannequin's Tools
 - BleuRaven's Blender for Unreal Engine
-- Salai Vedha Viradan's Modifier Stack Manager
+- Symstract's Modifier List
 - SavMartin's TexTools
 - and my own RightMouseNavigation, CommentBox
 
