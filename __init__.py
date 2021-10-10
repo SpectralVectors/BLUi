@@ -1,4 +1,4 @@
-# BLUI v0.8.5
+# BLUI v0.8.6
 
 import bpy, os, urllib.request, addon_utils
 from bpy.app.handlers import persistent
@@ -44,8 +44,8 @@ def load_handler_for_startup(_):
     addon3['url'] = 'https://github.com/SavMartin/TexTools-Blender/releases/download/v1.4.4/TexTools_1_4_4.zip'
 
     addon4 = addon.copy()
-    addon4['addon_name'] = 'modifier_stack_manager'
-    addon4['url'] = 'https://github.com/salaivv/modifier-stack-manager/releases/download/0.2/modifier_stack_manager.zip'
+    addon4['addon_name'] = 'ModifierList'
+    addon4['url'] = 'https://github.com/Symstract/modifier_list/releases/download/v1.7.1/modifier_list_1.7.1.zip'
 
     addon5 = addon.copy()
     addon5['addon_name'] = 'RightMouseNavigation'
@@ -66,7 +66,7 @@ def load_handler_for_startup(_):
         if addon_utils.check('TexTools_1_4_4') == (True, False):
             addons.append(addon3)      
             
-        if addon_utils.check('modifier_stack_manager') == (True, False):
+        if addon_utils.check('ModifierList') == (True, False):
             addons.append(addon4)       
             
         if addon_utils.check('RightMouseNavigation') == (True, False):
@@ -99,5 +99,4 @@ def unregister():
     print("Unregistering to Change Defaults")
     bpy.app.handlers.load_factory_preferences_post.remove(load_handler_for_preferences)
     bpy.app.handlers.load_factory_startup_post.remove(load_handler_for_startup)
-    bpy.ops.preferences.keymap_restore(all=True)
     
