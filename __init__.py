@@ -66,7 +66,7 @@ def load_handler_for_startup(_):
         if addon_utils.check('TexTools_1_4_4') == (True, False):
             addons.append(addon3)      
             
-        if addon_utils.check('modifier_list') == (True, False):
+        if addon_utils.check('modifier_list') == (True, False) or addon_utils.check('modifier_list') == (False, False):
             addons.append(addon4)       
             
         if addon_utils.check('RightMouseNavigation') == (True, False):
