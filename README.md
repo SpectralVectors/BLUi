@@ -34,7 +34,7 @@ The full list of Community Addons is below:
 
 ## Keyboard Shortcuts
 
-![Keymap](BLUI_084_Keymap.png)
+![Keymap](/screenshots/BLUI_084_Keymap.png)
 _(Courtesy of [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/))_
 
 ### Modes
