@@ -2,6 +2,24 @@
 
 ![BLUi Splash](https://github.com/SpectralVectors/BLUI/blob/main/splash.png)
 
+## What is BLUi?
+
+BLUi is an Application Template for Blender.
+
+An App Template is a package that combines a theme, keymap, multiple addons, a splash screen, custom preferences and startup file, and more!
+
+The idea is, when you want to move from one workflow into another: 2D Animation, 3D Animation, Game Asset Design, 3D Printing/CAD/CAM Design, Video Editing, Compositing etc, you may find that there are specific addons that work very well in one space, but create conflicts in others, or that you need to change unit scale, disable preferences etc.
+
+With App Templates this becomes a one click operation.
+
+So, what is BLUi? 
+
+It's an App Template that seeks to recreate the ease of use, and general user experience of Unreal Engine, inside of Blender.
+
+Aimed at those who know Unreal and other Industry Standard tools, BLUi adds features like Right Mouse Navigation, Comment Boxes, Unreal nomenclature, and a handful of community addons that immensely benefit the Blender > Unreal workflow.
+
+A customized keymap, based on the Industry Standard, ensures that anyone who feels at home in Unreal Engine won't have to relearn all the basics just to fix a lightmap / UV Layout, navigate the 3D viewport, focus on the active object, pan / zoom / orbit, model, edit or rig a mesh etc. 
+
 ## How to Install
 
 Download __BLUi.zip__ from the Releases section on the right.
