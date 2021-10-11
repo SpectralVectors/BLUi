@@ -122,14 +122,21 @@ _(Courtesy of [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/))_
 | <kbd>B</kbd>+<kbd>Left Mouse Click</kbd> | Add **Bump** Node |
 
 ## Screenshots
-  
+### Layout
 ![1_Layout](/screenshots/1_Layout.png)
+### Geometry
 ![2_Geometry](/screenshots/2_Geometry.png)
+### Model / Sculpt
 ![3_ModelSculpt](/screenshots/3_ModelSculpt.png)
+### UV / Texture
 ![4_UVTexture](/screenshots/4_UVTexture.png)
+### Material / Shader
 ![5_MaterialShader](/screenshots/5_MaterialShader.png)
+### Animation
 ![6_Animation](/screenshots/6_Animation.png)
+### Script
 ![7_Script](/screenshots/7_Script.png)
+### File Data
 ![8_FileData](/screenshots/8_FileData.png)
   
 ## Known Issues / Bugs
