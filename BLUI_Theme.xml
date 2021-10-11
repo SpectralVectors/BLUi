@@ -189,8 +189,8 @@
             text="#191919"
             text_sel="#ffffff"
             show_shaded="TRUE"
-            shadetop="10"
-            shadedown="-10"
+            shadetop="40"
+            shadedown="-40"
             roundness="0.4"
             >
           </ThemeWidgetColors>
