@@ -122,8 +122,16 @@ _(Courtesy of [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/))_
 | <kbd>B</kbd>+<kbd>Left Mouse Click</kbd> | Add **Bump** Node |
 
 ## Screenshots
+  
 ![1_Layout](/screenshots/1_Layout.png)
 ![2_Geometry](/screenshots/2_Geometry.png)
+![3_ModelSculpt](/screenshots/3_ModelSculpt.png)
+![4_UVTexture](/screenshots/4_UVTexture.png)
+![5_MaterialShader](/screenshots/5_MaterialShader.png)
+![6_Animation](/screenshots/6_Animation.png)
+![7_Script](/screenshots/7_Script.png)
+![8_FileData](/screenshots/8_FileData.png)
+  
 ## Known Issues / Bugs
   
 1 - If you switch between BLUi and regular Blender without closing Blender first, it can corrupt keymaps. I'm not sure what's causing it yet, it could be that the addons I'm using in my template aren't being unregistered before the Default scene gets loaded, but I haven't been able to fix it, and it's not present if you close Blender and reopen it. 
