@@ -22,6 +22,8 @@ A customized keymap, based on the Industry Standard, ensures that anyone who fee
 
 ## How to Install
 
+[![Install and Use](https://img.youtube.com/vi/fpmzPr1ENCs/0.jpg)](https://www.youtube.com/watch?v=fpmzPr1ENCs)
+
 Download __BLUi.zip__ from the Releases section on the right.
 
 Open __Blender__, and click on the __Blender__ logo in the top left corner.
