@@ -2472,6 +2472,7 @@ keyconfig_data = \
             ("anim.keying_set_active_set", {"type": 'S', "value": 'PRESS', "shift": True, "ctrl": True, "alt": True}, None),
             ("wm.call_menu",{"type": 'RIGHTMOUSE', "value": 'PRESS'},{"properties": [("name", 'VIEW3D_MT_object_context_menu'),], },),
             ("wm.call_menu",{"type": 'APP', "value": 'PRESS'},{"properties": [("name", 'VIEW3D_MT_object_context_menu'),], },),
+            ("wm.call_menu",{"type": 'A', "value": 'PRESS', "shift": True},{"properties": [("name", 'VIEW3D_MT_add'),], },),
             ("object.move_to_collection", {"type": 'G', "value": 'PRESS', "ctrl": True}, None),
             ("object.link_to_collection", {"type": 'G', "value": 'PRESS', "shift": True, "ctrl": True}, None),
             ("object.hide_view_clear", {"type": 'H', "value": 'PRESS', "alt": True}, None),
